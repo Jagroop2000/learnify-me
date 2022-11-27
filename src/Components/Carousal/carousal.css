@@ -1,0 +1,15 @@
+.style-carousal-background {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50));
+}
+
+.owl-carousel {
+    display: block !important;
+    width: 100%;
+    z-index: 1;
+}
+
+
+.section {
+    position: fixed;
+    width: 100%
+}

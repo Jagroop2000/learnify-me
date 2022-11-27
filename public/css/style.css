@@ -5,6 +5,12 @@
     --dark: #181d38;
 }
 
+html,body{
+   height: 100%;
+   width: 100%;
+}
+
+
 .fw-medium {
     font-weight: 600 !important;
 }
